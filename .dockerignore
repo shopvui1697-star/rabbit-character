@@ -1,0 +1,7 @@
+.git
+.gitignore
+**/.git
+**/node_modules
+**/dist
+**/.DS_Store
+docs
